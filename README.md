@@ -3,7 +3,7 @@
 
 En este repositorio está el archivo `ejemplo_seno.py` en el cual se plotea la siguiente imagen:
 
-(Insertar imagen)
+<img src='Seno.png' alt=' ' height='400'>
 
 La idea es aprender a usar github para entregar las tareas. El ejercicio consiste en seguir los siguientes pasos:
 
